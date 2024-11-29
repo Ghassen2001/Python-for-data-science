@@ -29,11 +29,11 @@ This learning path is divided into the following key workshops:
 
 All workshop slides, recordings, and coding notebooks can be accessed via the following Google Drive links:
 
-- **Introduction to Python:** [Google Drive Link]([#](https://drive.google.com/drive/folders/1RDX6hVtz7MWYdx--ReRErO1IjRPD6_4k?usp=sharing))  
-- **Python Functions:** [Google Drive Link]([#](https://drive.google.com/drive/folders/1Py9x-YSzq-4uRiVnS_pb_x2whM7gUdJC?usp=sharing))  
+- **Introduction to Python:** [Google Drive Link]((https://drive.google.com/drive/folders/1RDX6hVtz7MWYdx--ReRErO1IjRPD6_4k?usp=sharing))  
+- **Python Functions:** [Google Drive Link]((https://drive.google.com/drive/folders/1Py9x-YSzq-4uRiVnS_pb_x2whM7gUdJC?usp=sharing))  
 - **OOP with Python:** [Google Drive Link](https://drive.google.com/drive/folders/1rv9KxkYPQ0XQNhH6yCqhz1H0fvtxyCJg?usp=sharing)  
-- **NumPy:** [Google Drive Link]([#](https://drive.google.com/drive/folders/1hT3ZrRzJcD5W4z4GyDXNkq0QVfYZbxHh?usp=sharing))  
-- **Pandas:** [Google Drive Link]([#](https://drive.google.com/drive/folders/1KtbDoDUbf36mKmkgfHmMwFUB_bGKESxB?usp=sharing))  
+- **NumPy:** [Google Drive Link]((https://drive.google.com/drive/folders/1hT3ZrRzJcD5W4z4GyDXNkq0QVfYZbxHh?usp=sharing))  
+- **Pandas:** [Google Drive Link]((https://drive.google.com/drive/folders/1KtbDoDUbf36mKmkgfHmMwFUB_bGKESxB?usp=sharing))  
 
 ---
 
